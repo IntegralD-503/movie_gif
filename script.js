@@ -1,7 +1,7 @@
 // Use omdb API for searching/retrieving movies
 // http://www.omdbapi.com/?i=tt3896198&apikey=5303e3e1
 
-let omdb_url = "http://www.omdbapi.com/?";
+let omdb_url = "https://www.omdbapi.com/?";
 let omdb_key = "apikey=5303e3e1";
 let omdb_param = "&s=";
 let numCards = 0;
